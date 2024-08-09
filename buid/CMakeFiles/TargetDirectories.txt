@@ -1,0 +1,8 @@
+/home/gbbtn/CourseCode/Network/SChat/buid/CMakeFiles/edit_cache.dir
+/home/gbbtn/CourseCode/Network/SChat/buid/CMakeFiles/rebuild_cache.dir
+/home/gbbtn/CourseCode/Network/SChat/buid/client/CMakeFiles/client.dir
+/home/gbbtn/CourseCode/Network/SChat/buid/client/CMakeFiles/edit_cache.dir
+/home/gbbtn/CourseCode/Network/SChat/buid/client/CMakeFiles/rebuild_cache.dir
+/home/gbbtn/CourseCode/Network/SChat/buid/server/CMakeFiles/server.dir
+/home/gbbtn/CourseCode/Network/SChat/buid/server/CMakeFiles/edit_cache.dir
+/home/gbbtn/CourseCode/Network/SChat/buid/server/CMakeFiles/rebuild_cache.dir
