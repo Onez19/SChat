@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/server.dir/src/main.cc.o -o server  /usr/lib/libssl.so /usr/lib/libcrypto.so
